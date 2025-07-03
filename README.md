@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Valentín Correa 👋
 
-<!--
-**valentin-correa/valentin-correa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer Student**  
+🚀 Eager to build, learn, and contribute in the world of tech.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, TypeScript, Java, HTML, CSS
+- **Frameworks:** NestJS, Django, Bootstrap
+- **Databases:** PostgreSQL
+- **Tools:** Docker, Git
+
+## 🌟 Notable Projects
+
+- [delivery-zones](https://github.com/valentin-correa/delivery-zones): Location-based delivery management made simple.
+- [angular-flashbite](https://github.com/valentin-correa/angular-flashbite): Angular component for quick UI notifications.
+- [users-api](https://github.com/valentin-correa/users-api): Efficient user management REST API.
+
+## 🌱 Currently Exploring
+
+- Deepening my expertise with **React** and modern front-end development.
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/valent%C3%ADn-correa-ab2a5b278/)
+
+---
+
+_Always curious, always coding!_
