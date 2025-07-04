@@ -6,7 +6,7 @@
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, TypeScript, Java, HTML, CSS
-- **Frameworks:** NestJS, Django, Bootstrap
+- **Frameworks:** Angular, NestJS, Django, Bootstrap
 - **Databases:** PostgreSQL
 - **Tools:** Docker, Git
 
