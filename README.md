@@ -7,7 +7,7 @@
 
 - **Languages:** Python, TypeScript, Java, HTML, CSS
 - **Frameworks:** Angular, NestJS, Django, Bootstrap
-- **Databases:** PostgreSQL
+- **Databases:** PostgreSQL, MongoDB
 - **Tools:** Docker, Git
 
 ## 🌟 Notable Projects
